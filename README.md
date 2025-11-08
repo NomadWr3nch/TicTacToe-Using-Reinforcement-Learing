@@ -369,6 +369,7 @@ SOFTWARE.
 
 - Gautam Girish [@NomadWr3nch](https://github.com/NomadWr3nch)
 - Yadunandan V  [@skr-jyr](https://github.com/skr-jyr)
+- Yadunandan P [@yadunandan04](https://github.com/yadunandan04)
 ---
 
 ## 🙏 Acknowledgments

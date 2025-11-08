@@ -365,13 +365,10 @@ SOFTWARE.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-
+- Gautam Girish [@NomadWr3nch](https://github.com/NomadWr3nch)
+- Yadunandan V  [@skr-jyr](https://github.com/skr-jyr)
 ---
 
 ## 🙏 Acknowledgments
